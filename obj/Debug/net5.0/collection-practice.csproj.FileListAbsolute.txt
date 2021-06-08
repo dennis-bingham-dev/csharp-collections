@@ -1,0 +1,15 @@
+/Users/dennis/csharp-practice/collections/collection-practice/bin/Debug/net5.0/collection-practice.deps.json
+/Users/dennis/csharp-practice/collections/collection-practice/bin/Debug/net5.0/collection-practice.runtimeconfig.json
+/Users/dennis/csharp-practice/collections/collection-practice/bin/Debug/net5.0/collection-practice.runtimeconfig.dev.json
+/Users/dennis/csharp-practice/collections/collection-practice/bin/Debug/net5.0/collection-practice.dll
+/Users/dennis/csharp-practice/collections/collection-practice/bin/Debug/net5.0/ref/collection-practice.dll
+/Users/dennis/csharp-practice/collections/collection-practice/bin/Debug/net5.0/collection-practice.pdb
+/Users/dennis/csharp-practice/collections/collection-practice/obj/Debug/net5.0/collection-practice.csprojAssemblyReference.cache
+/Users/dennis/csharp-practice/collections/collection-practice/obj/Debug/net5.0/collection-practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dennis/csharp-practice/collections/collection-practice/obj/Debug/net5.0/collection-practice.AssemblyInfoInputs.cache
+/Users/dennis/csharp-practice/collections/collection-practice/obj/Debug/net5.0/collection-practice.AssemblyInfo.cs
+/Users/dennis/csharp-practice/collections/collection-practice/obj/Debug/net5.0/collection-practice.csproj.CoreCompileInputs.cache
+/Users/dennis/csharp-practice/collections/collection-practice/obj/Debug/net5.0/collection-practice.dll
+/Users/dennis/csharp-practice/collections/collection-practice/obj/Debug/net5.0/ref/collection-practice.dll
+/Users/dennis/csharp-practice/collections/collection-practice/obj/Debug/net5.0/collection-practice.pdb
+/Users/dennis/csharp-practice/collections/collection-practice/obj/Debug/net5.0/collection-practice.genruntimeconfig.cache
